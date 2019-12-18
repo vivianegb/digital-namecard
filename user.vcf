@@ -4,12 +4,16 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Viviane;Barreto;;;
 FN: Viviane  Barreto 
 ORG:CFM;
-TITLE:Assistente Administrativa\nDepartamento de Relações Internacionais
+TITLE:Assistente Administrativa\nDepartamento de Relações Internacionais\nConselho Federal de Medicina
 EMAIL;type=INTERNET;type=WORK;type=pref:viviane@portalmedico.org.br
 TEL;type=WORK;type=VOICE:+556134455975
 TEL;type=CEL;type=VOICE:+5561996149418
 item1.ADR;type=WORK;type=pref:;;SGAS 915, Lote 72\nBrasília-DF;;;72390-150
 item1.X-ABADR:sg
 item2.URL;type=pref:porta.cfm.org.br
+item3.URL;type=pref:instagram.com/medicina_cfm
+item4.URL;type=pref:facebook.com/conselhofederaldemedicina/
+item5.URL;type=pref:twitter.com/Medicina_CFM?s=20
+item6.URL;type=pref:youtube.com/user/cfmedicina
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
